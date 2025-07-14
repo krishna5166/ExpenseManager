@@ -89,4 +89,25 @@
         border: none;
         cursor: pointer;
       }
+
+      .expense-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-bottom: 10px;
+      }
+
+      .edit-btn,
+      .delete-btn {
+        padding: 4px 8px;
+        margin: 0 2px;
+        background-color: #28a745;
+        color: #fff;
+        border: none;
+        cursor: pointer;
+      }
+
+      .delete-btn {
+        background-color: #dc3545;
+      }
     
