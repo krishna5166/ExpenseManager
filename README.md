@@ -1,2 +1,2 @@
 # ExpenseManager
-lets create user friendly interface which helps in tracking our daily expenses
+Let’s create a user-friendly interface that helps track our daily expenses.
